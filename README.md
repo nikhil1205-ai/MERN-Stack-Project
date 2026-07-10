@@ -127,8 +127,12 @@ Beyond technical development, the project also reinforced the importance of clea
 - Create/Edit Post Experience: Demonstrates how users can add and update their posts.
 
 Suggested next step: add actual screenshots to a screenshots folder and reference them below for a more visual presentation.
+## 10. Video Link
 
-## 10. Improvements and Future Enhancements
+https://drive.google.com/file/d/1o8pGuSUtDB9yEg6jAyJoDM4SuNruBQPu/view?usp=sharing
+
+
+## 11. Improvements and Future Enhancements
 
 🌱 There is significant room to grow this project into a richer social platform. Potential improvements include:
 
@@ -140,11 +144,11 @@ Suggested next step: add actual screenshots to a screenshots folder and referenc
 - Adding dark mode and theme customization.
 - Expanding admin and moderation tools.
 
-## 11. Next Steps
+## 12. Next Steps
 
 The next phase of ConnectSphere could focus on turning it into a more complete social network by introducing engagement features, stronger real-time capabilities, and a more advanced profile experience. The current version provides a strong foundation, and the architecture is ready for future expansion.
 
-## 12. Installation and Run Instructions
+## 13. Installation and Run Instructions
 
 ### 1. Install dependencies
 
@@ -175,7 +179,7 @@ npm run dev
 
 This will start the backend and frontend together.
 
-## 13. Project Structure
+## 14. Project Structure
 
 ```text
 MERN_STACK/
@@ -199,7 +203,7 @@ MERN_STACK/
       styles.css
 ```
 
-## 14. API Overview
+## 15. API Overview
 
 ### Auth Routes
 - POST /api/auth/register
@@ -220,6 +224,6 @@ MERN_STACK/
 - GET /api/users/:id
 - GET /api/users/search
 
-## 15. Questions
+## 16. Questions
 
 💬 If you would like to learn more about ConnectSphere, explore the codebase, or discuss future enhancements, feel free to ask questions and share feedback.
