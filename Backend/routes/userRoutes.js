@@ -1,0 +1,10 @@
+import express from 'express';
+import { getUserById, getUsers, searchUsers } from '../controllers/userController.js';
+
+const router = express.Router();
+
+router.get('/', getUsers);
+router.get('/search', searchUsers);
+router.get('/:id', getUserById);
+
+export default router;
